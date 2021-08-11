@@ -2,6 +2,16 @@
 
 pipe-based editor
 
+## pipe-in-out
+
+- in
+  - 6mouth/2quater off-work time of pipe
+- out
+  - pipe-based editor
+  - the NO.1 pipe
+  - tech
+    - react
+
 ## tech struct
 
 | name  | type    | used for           |
